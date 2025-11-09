@@ -51,7 +51,7 @@ Follow these steps to run the project locally 👇
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/rentify.git
+git clone https://github.com/subhash-519/Hotel-Room-Rentify.git
 
 # Navigate into the folder
 cd rentify
